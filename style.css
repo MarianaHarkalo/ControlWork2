@@ -1,0 +1,328 @@
+*{
+    margin:0;
+    border: 0;
+}
+.all1{
+    width: 100%;
+    height: 70px;
+    background-color: gray;
+}
+.button1{
+    width: 70%;
+    margin: 0 auto;
+
+}
+.button2{
+    width: 70%;
+    margin: 0 auto;
+
+}
+.all2{
+    font-style: normal;
+    text-decoration: line-through;
+    height: 90.5vh;
+}
+.all{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+.block1{
+    width: 100%;
+    height: 100vh;
+    background-color: rgba(88, 86, 86, 0.247);
+    display: none;
+}
+.block{
+    width: 400px;
+    height: 350px;
+    position: relative;
+    border: 1px solid black;
+    background-color: white;
+    top: 20px;
+    left: 300px;
+    
+}
+.cross{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    background-image: url(img/1.png);
+    background-repeat: no-repeat;
+    left:380px;
+    top: -15px;
+}
+.cross1{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    background-image: url(img/1.png);
+    background-repeat: no-repeat;
+    left:380px;
+  top:-15px;
+}
+.Box {
+    width: 220px;
+    height: 220px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.Box1 {
+    width: 320px;
+    height: 220px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+.box {
+    width: 50px;
+    height:50px;
+    font-weight: unset;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 2px;
+    border-radius: 5px;
+}
+.box1 {
+    width: 100px;
+    height:100px;
+    font-weight: unset;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 2px;
+    border-radius: 5px;
+}
+.block2{
+    width: 100%;
+    height: 730px;
+    background-color: rgba(88, 86, 86, 0.247);
+    display: none;
+}
+.block3{
+    width: 100%;
+    height: 730px;
+    background-color: rgba(88, 86, 86, 0.247);
+    display: none;
+}
+.block_SignIn{
+    width: 600px;
+    height: 250px;
+    position: relative;
+    border: 1px solid black;
+    background-color: white;
+    top: 20px;
+    left: 300px;
+    
+}
+#buttonSignIn{
+    margin-top: 50px;
+    width: 95%;
+    height: 30px;
+    background-color: rgb(6, 6, 99);
+    color: white;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+#loginSignIn,#passwordSignIn{
+    border:1px solid black;
+    width:95%;
+    height:35px;
+    margin-top: 20px; 
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.block_SignIn{
+    text-align: center;
+}
+hr{
+    border: 0.1px solid black;
+}
+#value1{
+    color: red;
+    text-align: left;
+    display: none;
+}
+#value2{
+    color: red;
+    text-align: left;
+    display: none;
+
+}
+.all3{
+    width: 100%;
+    height: 70px;
+    background-color: gray;
+}
+.textarea{
+    display: none;
+    width: 1515px;
+    height: 700px;
+}
+.button2{
+    display: none;
+}
+.block4{
+    width: 100%;
+    height: 730px;
+    background-color: rgba(88, 86, 86, 0.247);
+    display: none;
+}
+.block_table{
+    width: 570px;
+    height: 350px;
+    position: relative;
+    border: 1px solid black;
+    background-color: white;
+    top: 20px;
+    left: 300px;
+}
+.tableInfo{
+    border: 1px solid rgb(114, 114, 114);
+    border-radius: 5px;
+    width: 250px;
+    height: 30px;
+    margin-top: 20px;
+}
+.table_data{
+    display: flex;
+    flex-wrap: wrap;
+}
+.table_data1{
+    width: 45%;
+}
+.table_data2{
+    width: 45%;
+   
+}
+.tableStyle{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.borderStyle{
+    border: 1px solid rgb(114, 114, 114);
+    border-radius: 5px;
+    width: 110px;
+    height: 30px;
+    margin-top: 20px;
+}
+#color_border{
+    margin-left:20px ;
+}
+#reset{
+    background-color: red;
+color: white;
+}
+#create{
+    background-color: rgb(0, 141, 0);
+color: white;
+}
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+tr {
+    text-align: center;
+   
+}
+.block5{
+    width: 100%;
+    height: 730px;
+    background-color: rgba(88, 86, 86, 0.247);
+    display: none;
+}
+.createOl{
+    width: 570px;
+    height: 250px;
+    position: relative;
+    border: 1px solid black;
+    background-color: white;
+    top: 20px;
+    left: 300px;
+    
+}
+.cross3{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    background-image: url(img/1.png);
+    background-repeat: no-repeat;
+    left:550px;
+    top: 2px;
+}
+.cross2{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    background-image: url(img/1.png);
+    background-repeat: no-repeat;
+    left:550px;
+    top: 2px;
+}
+.OlInfo{
+    border: 1px solid black;
+    width: 95%;
+    height: 30px;
+    border-radius: 5px;
+}
+#resetlist{
+    background-color: red;
+color: white;
+}
+#createlist{
+    background-color: rgb(0, 141, 0);
+color: white;
+}
+.listInfo{
+    border: 1px solid rgb(114, 114, 114);
+    border-radius: 5px;
+    width: 270px;
+    height: 30px;
+    margin-top: 20px;
+   
+}
+.block6{
+    width: 100%;
+    height: 730px;
+    background-color: rgba(88, 86, 86, 0.247);
+    display: none;
+}
+.createUl{
+    width: 570px;
+    height: 250px;
+    position: relative;
+    border: 1px solid black;
+    background-color: white;
+    top: 20px;
+    left: 300px;
+    
+}
+.UlInfo{
+    border: 1px solid black;
+    width: 95%;
+    height: 30px;
+    border-radius: 5px;
+}
+#resetlistUl{
+    background-color: red;
+color: white;
+}
+#createlistUl{
+    background-color: rgb(0, 141, 0);
+color: white;
+}
+.cross4{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    background-image: url(img/1.png);
+    background-repeat: no-repeat;
+    left:550px;
+    top: 2px;
+}
